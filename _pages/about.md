@@ -17,5 +17,8 @@ Recent Professional Activities
 Publications
 ======
 
-* Qingyao Ai, Keping Bi, Cheng Luo, Jiafeng Guo and W. Bruce Croft. Unbiased Learning to Rank with Unbiased Propensity Estimation. The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. Full paper. (SIGIR 2018).
-* ***Fan Zhang***, Ke Zhou, Yunqiu Shao, Cheng Luo, Min Zhang and Shaoping Ma. How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search? The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. Full paper. (***SIGIR 2018***).
+* ***Hongyu Lu***, Min Zhang, Weizhi Ma, Yunqiu Shao, Yiqun Liu and Shaoping Ma. Quality Effects on User Preferences and Behaviors in Mobile News Streaming. In Proceedings of the 2018 World Wide Web Conference. Full Paper. (***WWW 2019***)
+* ***Hongyu Lu***, Min Zhang and Shaoping Ma. Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading. The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. Full Paper. (***SIGIR 2018***)
+* ***Hongyu Lu***, Min Zhang, Yiqun Liu, Shaoping Ma. Convolution Neural Network Feature Importance Analysis and Feature Selection Enhanced Model\[J\]. (in Chinese). Journal of Software, 2017, 28(11): 2879-2890 (***JOS 2017***)
+* Cheng Guo, ***Hongyu Lu***, Shaoyun Shi, Bin Hao, Bin Liu, Min Zhang, Yiqun Liu, Shaoping Ma. How Integration helps on Cold-Start Recommendations. Proceedings of the Recommender Systems Challenge 2017 (***RecSys 2017***)
+* Shaoyun Shi, Min Zhang, ***Hongyu Lu***, Yiqun Liu, and Shaopin Ma, Wide & Deep Learning in Job Recommendation: An Empirical Study. Asia Information Retrieval Symposium (***AIRS 2017***).
