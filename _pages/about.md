@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me: Hongyu Lu (卢泓宇)"
+title: "Hongyu Lu (卢泓宇)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
