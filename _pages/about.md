@@ -23,3 +23,13 @@ Publications
 * ***Hongyu Lu***, Min Zhang, Yiqun Liu, Shaoping Ma. Convolution Neural Network Feature Importance Analysis and Feature Selection Enhanced Model\[J\]. (in Chinese). Journal of Software, 2017, 28(11): 2879-2890 (**CCML 2017**) (**JOS 2017**). [Preprint Version.](http://luhongyu.github.io/files/jos.pdf)
 * Cheng Guo, ***Hongyu Lu***, Shaoyun Shi, Bin Hao, Bin Liu, Min Zhang, Yiqun Liu, Shaoping Ma. How Integration helps on Cold-Start Recommendations. Proceedings of the Recommender Systems Challenge 2017 (**RecSys 2017**). [Preprint Version.](http://luhongyu.github.io/files/recsys.pdf)
 * Shaoyun Shi, Min Zhang, ***Hongyu Lu***, Yiqun Liu, and Shaopin Ma, Wide & Deep Learning in Job Recommendation: An Empirical Study. Asia Information Retrieval Symposium (**AIRS 2017**). [Preprint Version.](http://luhongyu.github.io/files/airs.pdf)
+
+
+Honors
+======
+
+* ***[Siebel Scholars](http://www.siebelscholars.com/news/welcome-class-2020-siebel-scholars), 2019*** The highest amount award ($35,000) for postgraduate students in CS department of Tsinghua University. 
+* ***[Nomination Award of MSRA Fellowship](https://www.msra.cn/zh-cn/connections/academic-programs/fellows), 2019*** Among over one hundred distinguished PhD candidates from 31 leading research academic institutions in China, Hong Kong SAR, Taiwan, Japan, Korea, and Singapore.
+* ***Yixin Fellowship, 2018*** 
+* ***Best student paper award, CCML 2017*** 
+
