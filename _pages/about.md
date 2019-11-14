@@ -37,7 +37,7 @@ Honors
 Experiences
 ======
 
-* ***Visiting Scholar, National University of Singapore, July 2019 - October 2019*** 
+* ***Visiting Scholar***, National University of Singapore, July 2019 - October 2019
 
 
 Invited Talks
