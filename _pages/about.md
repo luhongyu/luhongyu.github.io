@@ -44,14 +44,10 @@ Invited Talks
 ======
 
 * ***User Behavior and Experience Modeling in Recommender System*** 
-
 National University of Singapore, September 4, 2019 
 * ***Effects of User Negative Experience in Mobile News Streaming*** 
-
 SIGIR 2019, Paris, France, July 24, 2019 
 * ***Quality Effects on User Preferences and Behaviors in Mobile News Streaming*** 
-
 WWW 2019, San Francisco, USA, May 16, 2019 
 * ***Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading*** 
-
 SIGIR 2018, Ann Arbor, USA, July 10, 2018 
