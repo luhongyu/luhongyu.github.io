@@ -30,6 +30,7 @@ Honors
 
 * ***[Siebel Scholars](http://www.siebelscholars.com/news/welcome-class-2020-siebel-scholars), 2019*** The highest amount award ($35,000) for postgraduate students in CS department of Tsinghua University. 
 * ***[Nomination Award of MSRA Fellowship](https://www.msra.cn/zh-cn/connections/academic-programs/fellows), 2019*** Among over one hundred distinguished PhD candidates from 31 leading research academic institutions in China, Hong Kong SAR, Taiwan, Japan, Korea, and Singapore.
+* ***Global Top20 of Baidu Scholarship, 2019*** 
 * ***Yixin Fellowship, 2018*** 
 * ***Best student paper award, CCML 2017*** 
 
