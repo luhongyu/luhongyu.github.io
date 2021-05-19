@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Zhang Min](http://www.thuir.cn/group/~mzhang/). My major research interests are in Recommender System Evaluation, User Satisfaction and User Behavior Model.
+I am now a fifth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Department of Computer Science and Technology](http://www.cs.tsinghua.edu.cn) in Tsinghua University, Beijing, China. My supervisor is Prof. [Zhang Min](http://www.thuir.cn/group/~mzhang/) and Prof. Shaoping Ma. My major research interests are in Recommender System Evaluation, User Satisfaction and User Behavior Model.
 
 <!-- Recent Professional Activities
 ====== -->
@@ -17,6 +17,9 @@ I am now a fourth year Ph.D. student in [THUIR group](http://www.thuir.cn/), [De
 Publications
 ======
 
+* ***Hongyu Lu***, Weizhi Ma, Min Zhang, Maarten de Rijke, Yiqun Liu and Shaoping Ma. Standing in Your Shoes: External Assessments for Personalized Recommender Systems[C]. The 44th International ACM SIGIRConference on Research and Development in Information Retrieval (**SIGIR 2021**). Full Paper. 
+* Hanyu Li, ***Hongyu Lu***, Songhao Hunag, Weizhi Ma, Min Zhang, Yiqun Liu and Shaoping Ma. Privacy-Aware Remote Information Retrieval User Experiments Logging Tool[C]. The 44th International ACM SIGIRConference on Research and Development in Information Retrieval (**SIGIR 2021**). Demo paper. 
+* Jiayu Li, ***Hongyu Lu***, Chenyang Wang, Weizhi Ma, Min Zhang, Xianyu Zhao, Wei Qi, Yiqun Liu and Shaoping Ma. A Difficulty-Aware Framework for Churn Prediction and Intervention in Games[C]. The 27th ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining (**KDD 2021**). Full paper.
 * ***Hongyu Lu***, Min Zhang, Wezhi Ma, Ce Wang, Feng Xia, Yiqun Liu, Leyu Lin and Shaoping Ma. Effects of User Negative Experience in Mobile News Streaming. The 42st International ACM SIGIR Conference on Research and Development in Information Retrieval. Full Paper. (**SIGIR 2019**). [Preprint Version.](http://luhongyu.github.io/files/sigir2019.pdf)
 * ***Hongyu Lu***, Min Zhang, Weizhi Ma, Yunqiu Shao, Yiqun Liu and Shaoping Ma. Quality Effects on User Preferences and Behaviors in Mobile News Streaming. In Proceedings of the 2018 World Wide Web Conference. Full Paper. (**WWW 2019**). [Preprint Version.](http://luhongyu.github.io/files/www.pdf) [Slide](http://luhongyu.github.io/files/www_slide.pdf) 
 * ***Hongyu Lu***, Min Zhang and Shaoping Ma. Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading. The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval. Full Paper. (**SIGIR 2018**). [Preprint Version.](http://luhongyu.github.io/files/sigir.pdf) [Dataset](https://github.com/luhongyu/News-Reading-User-Study-Data)
@@ -38,6 +41,7 @@ Honors
 Experiences
 ======
 
+* ***Visiting Ph.D.***, University of Amsterdam, February 2020 - April 2019
 * ***Visiting Scholar***, National University of Singapore, July 2019 - October 2019
 
 
