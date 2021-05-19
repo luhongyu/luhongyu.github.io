@@ -31,6 +31,7 @@ Publications
 Honors
 ======
 
+* ***Company Offers, 2021***: Tencent (技术大咖), Meituan (北斗计划), Kuaishou (快Star计划), Baidu (AIDU计划), etc.
 * ***[Siebel Scholars](http://www.siebelscholars.com/news/welcome-class-2020-siebel-scholars), 2019*** The highest amount award ($35,000) for postgraduate students in CS department of Tsinghua University. 
 * ***[Nomination Award of MSRA Fellowship](https://www.msra.cn/zh-cn/connections/academic-programs/fellows), 2019*** Among over one hundred distinguished PhD candidates from 31 leading research academic institutions in China, Hong Kong SAR, Taiwan, Japan, Korea, and Singapore.
 * ***Global Top20 of Baidu Scholarship, 2019*** 
@@ -41,7 +42,7 @@ Honors
 Experiences
 ======
 
-* ***Visiting Ph.D.***, University of Amsterdam, February 2020 - April 2019
+* ***Visiting Ph.D.***, University of Amsterdam, February 2020 - April 2020
 * ***Visiting Scholar***, National University of Singapore, July 2019 - October 2019
 
 
